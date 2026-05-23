@@ -97,12 +97,12 @@ No paid APIs. No cloud required. Runs on any laptop.
 
 **"streamlit not recognised"**
 ```
-python -m streamlit run app.py
+py -m streamlit run app.py
 ```
 
 **"pip not recognised"**
 ```
-python -m pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 
 **Slow first load**
